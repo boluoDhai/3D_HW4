@@ -5,10 +5,16 @@
 - 2019-10-01
 
 ## 演示视频
+http://www.iqiyi.com/w_19s9llhizp.html
 
-
-## UML图
-
+## Fantasy Skybox FREE
+- 下载 Fantasy Skybox FREE， 构建自己的游戏场景
+- 写一个简单的总结，总结游戏对象的使用  
+我们在Asset Store中搜索Fantasy Skybox FREE并进行下载, 此时Asset中会新增三个文件夹
+![insert](insert/001.png)  
+创建一个Terrain, 然后在Inspector对地形进行修改, 把下载的草地, 树木等植被加载上去, 最终如下图  
+![insert](insert/003.png)
+![insert](insert/002.jpg)
 
 ## 动作分离
 我们新增SSActionManager与Judge类, 并把有关动作的函数放入SSActionManager中, Judege是用来判断游戏结束的类.  
